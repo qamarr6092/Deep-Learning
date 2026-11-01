@@ -1,1 +1,1 @@
-"Starting deep learning from first of november" 
+Starting deep learning from first of november
